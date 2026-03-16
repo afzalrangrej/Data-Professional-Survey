@@ -5,7 +5,7 @@ This project analyzes a survey of 630 data professionals to understand salary tr
 Dashboard Preview: <br>
 <img width="100%" alt="Power BI Dashboard" src="Data_Professional_Dashboard.jpg"><br><br>
 
-Key Features: <br><br>
+Key Features: <br>
 
 1. Interactive Power BI dashboard analyzing survey data of data professionals.<br>
 2. Visual breakdown of average salary by job role (Data Scientist, Data Engineer, Data Analyst, etc.).<br>
@@ -14,7 +14,7 @@ Key Features: <br><br>
 5. Insights into career entry difficulty in the data field.<br>
 6. Visualization of work-life balance satisfaction and salary satisfaction.<br><br>
 
-Dashboard Insights: <br><br>
+Dashboard Insights: <br>
 
 1. Data Scientists have the highest average salary (~94k), followed by Data Engineers (~65k) and Data Architects (~64k).<br>
 2. Python is the most preferred programming language among data professionals.<br>
@@ -23,7 +23,7 @@ Dashboard Insights: <br><br>
 5. Average salary satisfaction score: 4.27 / 10.<br>
 6. Majority of survey participants are from United States and India.<br><br>
 
-Tools & Technologies: <br><br>
+Tools & Technologies: <br>
 
 - Power BI <br>
 - Data Visualization <br>
@@ -31,7 +31,7 @@ Tools & Technologies: <br><br>
 - Interactive Dashboard Design <br>
 - Survey Data Analysis <br><br>
 
-Dashboard Components: <br><br>
+Dashboard Components: <br>
 
 1. Country Distribution (Tree Map) <br>
 2. Average Salary by Job Title (Bar Chart) <br>
@@ -41,5 +41,13 @@ Dashboard Components: <br><br>
 6. Salary Satisfaction Gauge <br>
 7. Survey Demographics Metrics (Count & Average Age) <br><br>
 
+Purpose of the Project: <br>
 
+The purpose of this project is to analyze trends in the data profession and demonstrate Power BI dashboard development skills using real-world survey data.
+
+Connect With Me: <br>
+
+LinkedIn: https://www.linkedin.com/in/afzal-rangrej/ <br><br>
+
+Thank You.
   
