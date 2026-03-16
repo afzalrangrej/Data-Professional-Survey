@@ -1,4 +1,5 @@
 Data Professional Survey Analysis – Power BI Dashboard <br><br>
+
 Project Overview: <br>
 This project analyzes a survey of 630 data professionals to understand salary trends, popular programming languages, career difficulty, and job satisfaction across different roles and countries. The dashboard provides interactive insights for exploring the data industry landscape. <br><br>
 
